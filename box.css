@@ -1,0 +1,7 @@
+div {
+  background-color: rgb(194, 14, 98);
+  width: 1000px;
+  border-style: groove;
+  border-width: 35px;
+  padding: 15%;
+}
