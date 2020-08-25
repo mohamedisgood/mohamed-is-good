@@ -2,6 +2,9 @@ div {
   background-color: rgb(194, 14, 98);
   width: 1000px;
   border-style: groove;
-  border-width: 35px;
-  padding: 15%;
+  border-width: 3px;
+  padding: 12%;
+  outline-style: solid;
+  outline-width: 0.5cm;
+  outline-color: royalblue;
 }

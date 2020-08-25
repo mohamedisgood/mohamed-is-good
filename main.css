@@ -1,14 +1,15 @@
 h1 {
   color: red;
-  background-color: rgb(45, 45, 235);
+ 
   font-size: 90;
   background-size: mm;
   max-width: 1500px;
+  text-shadow: 2px 4px chartreuse;
 }
 
 body {
   background-attachment: fixed;
-  background-image: url(pngtree-h5-web-design-sci-fi-background-banner-image_156041.jpg);
+  background-image: url(10-free-geometric-backgrounds-1549495960.jpg);
   background-position: center;
   background-size: 25cm;
 }
@@ -19,11 +20,16 @@ body {
   border-radius: 35;
 }
 .ahmed {
-  background-color: rgb(22, 22, 20);
+  background-color: rgb(250, 250, 137);
   margin: 10 auto;
-  color: white;
+  color: blue;
   font-size: 15pt;
   max-width: 1250;
+  padding: 1cm;
+  outline: 5px solid blue;
+  text-shadow: 1px 1px rgb(255, 0, 85);
+  outline-offset: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .r {
   background-color: yellow;
@@ -53,8 +59,53 @@ span {
   height: 300px;
   width: 700px;
   border-radius: 25px;
+  outline-color: 5px solid red;
+  text-align: center;
+  padding-top: 1cm;
+  background-image: url(IMG_20200725_122755.jpg);
+  background-position: center;
+  margin: 20mm;
+  font-size: 25px;
+  font-color:
+
+  font-weight: bold;
 }
 
 input {
   padding: 5px;
 }
+ a:link{
+
+  color: rgb(10, 226, 39);
+ }
+ a:visited{
+   color:red;
+
+ }
+ a:hover{
+
+  color:  white;
+ }
+ .kkk:hover{
+background-color: yellow; border:5px soild red;
+border-radius: 25px;
+
+
+
+ }
+  .kkk{
+background-color: rgb(211, 241, 177); border:5px soild red;
+font-size: 4mm; font-weight: bold;
+
+ }
+
+ .memo{
+   background-color: rgb(168, 228, 140);
+border: 1mm solid red; border-radius: 25px;
+padding-left: 5mm;padding-right: 5mm;padding-top: 5mm;padding-bottom: 5mm;
+position: relative;
+left:1100px;
+
+
+
+ }
